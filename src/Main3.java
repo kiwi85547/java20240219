@@ -5,6 +5,6 @@ public class Main3 {
         System.out.println("K-digital Training 과정");
         System.out.println("JAVA Web Application");
         System.out.println("수강생 조화영");
-        System.out.println("점심 메뉴 정하기");
+        System.out.println("main 쓰고 탭, sout 탭");
     }
 }
