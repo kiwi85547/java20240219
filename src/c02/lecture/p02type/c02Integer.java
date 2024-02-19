@@ -15,6 +15,7 @@ public class c02Integer {
         a=132+124;
         System.out.println(a);
         long d=2147483648L;
+        d=2_147_483_648L;
         System.out.println(d);
         long e=34L;
         System.out.println(e);
