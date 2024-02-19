@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c47b38f7-8af1-4855-9dd6-9e5882afc5cb" name="Changes" comment="" />
+    <list default="true" id="c47b38f7-8af1-4855-9dd6-9e5882afc5cb" name="Changes" comment="집에서 pop 앤 push 연습">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +47,35 @@
       <option name="presentableId" value="Default" />
       <updated>1708327113216</updated>
     </task>
+    <task id="LOCAL-00001" summary="집에서 pop 앤 push 연습">
+      <option name="closed" value="true" />
+      <created>1708327668916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327668916</updated>
+    </task>
+    <task id="LOCAL-00002" summary="집에서 pop 앤 push 연습">
+      <option name="closed" value="true" />
+      <created>1708327748315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327748315</updated>
+    </task>
+    <task id="LOCAL-00003" summary="집에서 pop 앤 push 연습">
+      <option name="closed" value="true" />
+      <created>1708327775678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327775678</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="집에서 pop 앤 push 연습" />
+    <option name="LAST_COMMIT_MESSAGE" value="집에서 pop 앤 push 연습" />
   </component>
 </project>

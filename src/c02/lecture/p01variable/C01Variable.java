@@ -16,10 +16,27 @@ public class C01Variable {
         System.out.println(b);
 //        변수명에 사용할 수 있는 문자들
 //        영문 대소문자, 숫자, $, _
-//        숫자로 시작할 수 없다.
-//        lowerCamelCass
+//        숫자 ,로 시작할 수 없다.
+//        _로만 작성할 수 없음.
+        int $;
+        int c_D;
 
 //        변수명 작성 관습
 //        소문자로 시작, 여러단어의 조합이면 각단어의 앞글자만 대문자
+//        lowerCamelCass
+
+        int age;
+        int ageOfJames;
+        int address;
+        int addressOfJane; //관습 ok
+        int address_of_jane; //관습 x
+
+//        int age; // 같은 변수명을 다시 선언할 수 없음.
+
+        // 자바의 키워드(예약어)는 변수명으로 사용할 수 없음.
+//        int package;
+//        int void;
+//        int float;
+
     }
 }
