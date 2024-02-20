@@ -4,33 +4,153 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c47b38f7-8af1-4855-9dd6-9e5882afc5cb" name="Changes" comment="집에서 pop 앤 push 연습">
+    <list default="true" id="7a7b3a3a-aeb2-41b8-b011-f81470089206" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C04Long.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C05Byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C06Short.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C07Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C08Double.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C11Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C13String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C14TextBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C15StringTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C16Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C18Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C19Var.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C20TypeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c02/sec01/TextBlockExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/c02Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C02Integer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2cZlj6czp8FleqZh6fbtMYuIWcE" />
+  <component name="ProjectId" id="2cbpU8bKcVZUTN0ecxTNSaq9kYr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.C02String.executor": "Run",
+    "Application.C03Integer.executor": "Run",
+    "Application.C04Long.executor": "Run",
+    "Application.C07Character.executor": "Run",
+    "Application.C08Double.executor": "Run",
+    "Application.C11Boolean.executor": "Run",
+    "Application.C13String.executor": "Run",
+    "Application.C14TextBlock.executor": "Run",
+    "Application.C15StringTemplate.executor": "Run",
+    "Application.C16Scanner.executor": "Run",
+    "Application.C18Scope.executor": "Run",
+    "Application.C19Var.executor": "Run",
+    "Application.C20TypeConversion.executor": "Run",
+    "Application.TextBlockExample.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.C20TypeConversion">
+    <configuration name="C15StringTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C15StringTemplate" />
+      <module name="java20240219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c02.lecture.p02type.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C16Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C16Scanner" />
+      <module name="java20240219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c02.lecture.p02type.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C18Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C18Scope" />
+      <module name="java20240219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c02.lecture.p02type.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C19Var" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C19Var" />
+      <module name="java20240219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c02.lecture.p02type.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C20TypeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C20TypeConversion" />
+      <module name="java20240219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c02.lecture.p02type.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C20TypeConversion" />
+        <item itemvalue="Application.C19Var" />
+        <item itemvalue="Application.C18Scope" />
+        <item itemvalue="Application.C16Scanner" />
+        <item itemvalue="Application.C15StringTemplate" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,41 +161,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c47b38f7-8af1-4855-9dd6-9e5882afc5cb" name="Changes" comment="" />
-      <created>1708327113216</created>
+      <changelist id="7a7b3a3a-aeb2-41b8-b011-f81470089206" name="Changes" comment="" />
+      <created>1708390145744</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708327113216</updated>
+      <updated>1708390145744</updated>
     </task>
-    <task id="LOCAL-00001" summary="집에서 pop 앤 push 연습">
-      <option name="closed" value="true" />
-      <created>1708327668916</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1708327668916</updated>
-    </task>
-    <task id="LOCAL-00002" summary="집에서 pop 앤 push 연습">
-      <option name="closed" value="true" />
-      <created>1708327748315</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1708327748315</updated>
-    </task>
-    <task id="LOCAL-00003" summary="집에서 pop 앤 push 연습">
-      <option name="closed" value="true" />
-      <created>1708327775678</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1708327775678</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="집에서 pop 앤 push 연습" />
-    <option name="LAST_COMMIT_MESSAGE" value="집에서 pop 앤 push 연습" />
   </component>
 </project>

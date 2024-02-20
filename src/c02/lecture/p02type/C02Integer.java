@@ -1,6 +1,6 @@
 package c02.lecture.p02type;
 
-public class c02Integer {
+public class C02Integer {
     public static void main(String[] args) {
         // 정수타입
         // int
@@ -24,6 +24,7 @@ public class c02Integer {
         // byte, short
 
         int x;
+
         x=0b1011;
         System.out.println("2진수: "+x);
         x=013;
