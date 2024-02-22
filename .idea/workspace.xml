@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a7b3a3a-aeb2-41b8-b011-f81470089206" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C04Long.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C05Byte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C06Short.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C07Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C08Double.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C11Boolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C13String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C14TextBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C15StringTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C16Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C18Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C19Var.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C20TypeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c02/sec01/TextBlockExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/c02Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c02/lecture/p02type/C02Integer.java" afterDir="false" />
-    </list>
+    <list default="true" id="7a7b3a3a-aeb2-41b8-b011-f81470089206" name="Changes" comment="변수 타입 바꾸기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -40,10 +24,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2cbpU8bKcVZUTN0ecxTNSaq9kYr" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,9 +41,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.C.executor": "Run",
+    "Application.C01AndOr.executor": "Run",
+    "Application.C02Assignment.executor": "Run",
     "Application.C02String.executor": "Run",
     "Application.C03Integer.executor": "Run",
     "Application.C04Long.executor": "Run",
+    "Application.C04ShortCircuit.executor": "Run",
     "Application.C07Character.executor": "Run",
     "Application.C08Double.executor": "Run",
     "Application.C11Boolean.executor": "Run",
@@ -67,17 +58,27 @@
     "Application.C18Scope.executor": "Run",
     "Application.C19Var.executor": "Run",
     "Application.C20TypeConversion.executor": "Run",
+    "Application.CompareOperatorExample.executor": "Run",
+    "Application.ConditionalOperation.executor": "Run",
+    "Application.Excercise07.executor": "Run",
+    "Application.Exercise04.executor": "Run",
+    "Application.Exercise05.executor": "Run",
     "Application.TextBlockExample.executor": "Run",
+    "Application.exercisealone.executor": "Run",
+    "Application.p03compare.executor": "Run",
+    "Application.p2assignment.executor": "Run",
+    "Application.programmers (1).executor": "Run",
+    "Application.programmers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "actions.on.save"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C20TypeConversion">
-    <configuration name="C15StringTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C15StringTemplate" />
+  <component name="RunManager" selected="Application.C03Integer">
+    <configuration name="C03Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C03Integer" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C16Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C16Scanner" />
+    <configuration name="C04ShortCircuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture.C04ShortCircuit" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c02.lecture.p02type.*" />
+          <option name="PATTERN" value="lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C18Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C18Scope" />
+    <configuration name="ConditionalOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture.ConditionalOperation" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c02.lecture.p02type.*" />
+          <option name="PATTERN" value="lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C19Var" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C19Var" />
+    <configuration name="Excercise07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c03.sec02.Excercise07" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c02.lecture.p02type.*" />
+          <option name="PATTERN" value="c03.sec02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C20TypeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C20TypeConversion" />
+    <configuration name="exercisealone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c03.sec02.exercisealone" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c02.lecture.p02type.*" />
+          <option name="PATTERN" value="c03.sec02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C20TypeConversion" />
-        <item itemvalue="Application.C19Var" />
-        <item itemvalue="Application.C18Scope" />
-        <item itemvalue="Application.C16Scanner" />
-        <item itemvalue="Application.C15StringTemplate" />
+        <item itemvalue="Application.C03Integer" />
+        <item itemvalue="Application.exercisealone" />
+        <item itemvalue="Application.ConditionalOperation" />
+        <item itemvalue="Application.Excercise07" />
+        <item itemvalue="Application.C04ShortCircuit" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +168,40 @@
       <option name="presentableId" value="Default" />
       <updated>1708390145744</updated>
     </task>
+    <task id="LOCAL-00001" summary="변수와 타입">
+      <option name="closed" value="true" />
+      <created>1708414335190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708414335190</updated>
+    </task>
+    <task id="LOCAL-00002" summary="변수 타입 바꾸기">
+      <option name="closed" value="true" />
+      <created>1708591929442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708591929442</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="집에서 pop 앤 push 연습" />
+    <MESSAGE value="변수와 타입" />
+    <MESSAGE value="변수 타입 바꾸기" />
+    <option name="LAST_COMMIT_MESSAGE" value="변수 타입 바꾸기" />
   </component>
 </project>

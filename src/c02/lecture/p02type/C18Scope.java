@@ -25,6 +25,9 @@ public class C18Scope {
             System.out.println(v2);
             System.out.println(v3);
         }
+//        if (true) {
+//            int var1 = 2;}
+//            {System.out.print("var1 = " + var1);}
 
     }
 }
