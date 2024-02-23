@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a7b3a3a-aeb2-41b8-b011-f81470089206" name="Changes" comment="변수 타입 바꾸기" />
+    <list default="true" id="7a7b3a3a-aeb2-41b8-b011-f81470089206" name="Changes" comment="switch문까지">
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p3while/C01While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p3while/C02While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p3while/C03Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p3while/C04DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p3while/DoWhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p3while/KeyControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p3while/PrintFrom1To10Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p3while/SumFrom1To100Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p4for/C01for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p4for/C02For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p4for/C03For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p4for/C04ForExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p4for/C05ForExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p4for/C05ForExerciseAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p4for/C05ForExercise_T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p4for/FloatCounterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p4for/MultiplicationTableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p5break/BreakOutterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p5break/C01break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p5break/C01breakExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p5break/C02Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p5break/C03Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p5break/C05CodeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p5break/C4Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p5break/ContinueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec/Quiz04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,15 +69,40 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BreakOutterExample.executor": "Run",
     "Application.C.executor": "Run",
     "Application.C01AndOr.executor": "Run",
+    "Application.C01Switch.executor": "Run",
+    "Application.C01While.executor": "Run",
+    "Application.C01break.executor": "Run",
+    "Application.C01breakExercise.executor": "Run",
+    "Application.C01for.executor": "Run",
     "Application.C02Assignment.executor": "Run",
+    "Application.C02Continue.executor": "Run",
+    "Application.C02For.executor": "Run",
     "Application.C02String.executor": "Run",
+    "Application.C02Switch.executor": "Run",
+    "Application.C02While.executor": "Run",
+    "Application.C03Continue.executor": "Run",
+    "Application.C03Debug.executor": "Debug",
+    "Application.C03For.executor": "Run",
     "Application.C03Integer.executor": "Run",
+    "Application.C03Overflow.executor": "Run",
+    "Application.C04DoWhile.executor": "Run",
+    "Application.C04ForExercise.executor": "Run",
     "Application.C04Long.executor": "Run",
     "Application.C04ShortCircuit.executor": "Run",
+    "Application.C05CodeBlock.executor": "Run",
+    "Application.C05ForExercise.executor": "Run",
+    "Application.C05ForExerciseAgain.executor": "Run",
+    "Application.C05ForExercise_T.executor": "Run",
+    "Application.C05Random.executor": "Run",
+    "Application.C05Switch.executor": "Run",
+    "Application.C06RPS.executor": "Run",
     "Application.C07Character.executor": "Run",
     "Application.C08Double.executor": "Run",
+    "Application.C08SwitchExpression.executor": "Run",
+    "Application.C09Yield.executor": "Run",
     "Application.C11Boolean.executor": "Run",
     "Application.C13String.executor": "Run",
     "Application.C14TextBlock.executor": "Run",
@@ -58,17 +111,34 @@
     "Application.C18Scope.executor": "Run",
     "Application.C19Var.executor": "Run",
     "Application.C20TypeConversion.executor": "Run",
+    "Application.C4Label.executor": "Run",
     "Application.CompareOperatorExample.executor": "Run",
     "Application.ConditionalOperation.executor": "Run",
+    "Application.ContinueExample.executor": "Run",
+    "Application.DoWhileExample.executor": "Run",
     "Application.Excercise07.executor": "Run",
     "Application.Exercise04.executor": "Run",
     "Application.Exercise05.executor": "Run",
+    "Application.FloatCounterExample.executor": "Run",
+    "Application.IfNestedExample.executor": "Run",
+    "Application.KeyControlExample.executor": "Run",
+    "Application.MultiplicationTableExample.executor": "Run",
+    "Application.PrintFrom1To10Example.executor": "Run",
+    "Application.Quiz04.executor": "Run",
+    "Application.SumFrom1To100Example.executor": "Debug",
+    "Application.SwitchExample.executor": "Run",
+    "Application.SwtichNobreak.executor": "Run",
     "Application.TextBlockExample.executor": "Run",
+    "Application.aa.p01if.executor": "Run",
+    "Application.ch04.p01if.executor": "Run",
     "Application.exercisealone.executor": "Run",
+    "Application.p01if.executor": "Run",
     "Application.p03compare.executor": "Run",
     "Application.p2assignment.executor": "Run",
     "Application.programmers (1).executor": "Run",
     "Application.programmers.executor": "Run",
+    "Application.progrmmer.executor": "Run",
+    "Application.sec02.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -76,13 +146,18 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C03Integer">
-    <configuration name="C03Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C03Integer" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ch04" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.C05ForExerciseAgain">
+    <configuration name="BreakOutterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.lecture.p5break.BreakOutterExample" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c02.lecture.p02type.*" />
+          <option name="PATTERN" value="ch04.lecture.p5break.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04ShortCircuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture.C04ShortCircuit" />
+    <configuration name="C05CodeBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.lecture.p5break.C05CodeBlock" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture.*" />
+          <option name="PATTERN" value="ch04.lecture.p5break.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture.ConditionalOperation" />
+    <configuration name="C05ForExerciseAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.lecture.p4for.C05ForExerciseAgain" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture.*" />
+          <option name="PATTERN" value="ch04.lecture.p4for.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Excercise07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c03.sec02.Excercise07" />
+    <configuration name="C4Label" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.lecture.p5break.C4Label" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c03.sec02.*" />
+          <option name="PATTERN" value="ch04.lecture.p5break.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercisealone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c03.sec02.exercisealone" />
+    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.lecture.p5break.ContinueExample" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c03.sec02.*" />
+          <option name="PATTERN" value="ch04.lecture.p5break.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C03Integer" />
-        <item itemvalue="Application.exercisealone" />
-        <item itemvalue="Application.ConditionalOperation" />
-        <item itemvalue="Application.Excercise07" />
-        <item itemvalue="Application.C04ShortCircuit" />
+        <item itemvalue="Application.C05ForExerciseAgain" />
+        <item itemvalue="Application.C05CodeBlock" />
+        <item itemvalue="Application.BreakOutterExample" />
+        <item itemvalue="Application.C4Label" />
+        <item itemvalue="Application.ContinueExample" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +259,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708591929442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="변수 타입 바꾸기">
+      <option name="closed" value="true" />
+      <created>1708592072326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708592072326</updated>
+    </task>
+    <task id="LOCAL-00004" summary="변수 타입 바꾸기">
+      <option name="closed" value="true" />
+      <created>1708592080854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708592080854</updated>
+    </task>
+    <task id="LOCAL-00005" summary="switch문까지">
+      <option name="closed" value="true" />
+      <created>1708683002391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708683002391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +301,7 @@
     <MESSAGE value="집에서 pop 앤 push 연습" />
     <MESSAGE value="변수와 타입" />
     <MESSAGE value="변수 타입 바꾸기" />
-    <option name="LAST_COMMIT_MESSAGE" value="변수 타입 바꾸기" />
+    <MESSAGE value="switch문까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="switch문까지" />
   </component>
 </project>
