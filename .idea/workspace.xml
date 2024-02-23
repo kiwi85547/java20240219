@@ -4,7 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a7b3a3a-aeb2-41b8-b011-f81470089206" name="Changes" comment="변수 타입 바꾸기" />
+    <list default="true" id="7a7b3a3a-aeb2-41b8-b011-f81470089206" name="Changes" comment="변수 타입 바꾸기">
+      <change afterPath="$PROJECT_DIR$/src/ch03/lecture/p1arithemetic/C03Overflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/Sec02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p1lif/C01if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p1lif/C05Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p1lif/C06RPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p2switch/C01Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p2switch/C02Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p2switch/C03SwitchExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p2switch/C05Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p2switch/C08SwitchExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/lecture/p2switch/C09Yield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/progrmmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec02/IfNestedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwtichNobreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p01variable/C01Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p01variable/C01Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p01variable/C02Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p01variable/C02Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C01Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C01Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C02Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C02Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C03Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C03Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C04Long.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C04Long.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C05Byte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C05Byte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C06Short.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C06Short.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C07Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C07Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C08Double.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C08Double.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C11Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C11Boolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C13String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C13String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C14TextBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C14TextBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C15StringTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C15StringTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C16Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C16Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C18Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C18Scope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C19Var.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C19Var.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/lecture/p02type/C20TypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/lecture/p02type/C20TypeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/sec01/TextBlockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec01/TextBlockExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c02/sec01/VariableInitializationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/sec01/VariableInitializationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c03/C02Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/C02Assignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c03/Exercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/exercise/Exercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c03/Exercise04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/exercise/Exercise04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c03/Exercise05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/exercise/Exercise05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c03/sec02/CompareOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec06/CompareOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c03/sec02/Excercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec02/Excercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c03/sec02/exercisealone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/sec02/exercisealone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c03/sec02/programmers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/programmers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/C01AndOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/lecture/p4logical/C01AndOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/C02ExclusiveOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/lecture/p4logical/C03ExclusiveOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/C02Not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/lecture/p4logical/C02Not.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/C04ShortCircuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/lecture/p4logical/C04ShortCircuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/ConditionalOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/lecture/ConditionalOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/p03compare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/lecture/p3compare/C01compare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/p2assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/lecture/p2assignment/C02Assignment.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,50 +92,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.C.executor": "Run",
-    "Application.C01AndOr.executor": "Run",
-    "Application.C02Assignment.executor": "Run",
-    "Application.C02String.executor": "Run",
-    "Application.C03Integer.executor": "Run",
-    "Application.C04Long.executor": "Run",
-    "Application.C04ShortCircuit.executor": "Run",
-    "Application.C07Character.executor": "Run",
-    "Application.C08Double.executor": "Run",
-    "Application.C11Boolean.executor": "Run",
-    "Application.C13String.executor": "Run",
-    "Application.C14TextBlock.executor": "Run",
-    "Application.C15StringTemplate.executor": "Run",
-    "Application.C16Scanner.executor": "Run",
-    "Application.C18Scope.executor": "Run",
-    "Application.C19Var.executor": "Run",
-    "Application.C20TypeConversion.executor": "Run",
-    "Application.CompareOperatorExample.executor": "Run",
-    "Application.ConditionalOperation.executor": "Run",
-    "Application.Excercise07.executor": "Run",
-    "Application.Exercise04.executor": "Run",
-    "Application.Exercise05.executor": "Run",
-    "Application.TextBlockExample.executor": "Run",
-    "Application.exercisealone.executor": "Run",
-    "Application.p03compare.executor": "Run",
-    "Application.p2assignment.executor": "Run",
-    "Application.programmers (1).executor": "Run",
-    "Application.programmers.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.C.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C01AndOr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C01Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C02Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C02String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C02Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C03Integer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C03Overflow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C04Long.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C04ShortCircuit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05Random.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C05Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C06RPS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C07Character.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08Double.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C08SwitchExpression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C09Yield.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C11Boolean.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C13String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C14TextBlock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C15StringTemplate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C16Scanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C18Scope.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C19Var.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C20TypeConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareOperatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionalOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Excercise07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfNestedExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwtichNobreak.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextBlockExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.aa.p01if.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch04.p01if.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercisealone.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p01if.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p03compare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p2assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.programmers (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.programmers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.progrmmer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sec02.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.C03Integer">
-    <configuration name="C03Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c02.lecture.p02type.C03Integer" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ch04" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.C09Yield">
+    <configuration name="C05Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.lecture.p2switch.C05Switch" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c02.lecture.p02type.*" />
+          <option name="PATTERN" value="ch04.lecture.p2switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04ShortCircuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture.C04ShortCircuit" />
+    <configuration name="C08SwitchExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.lecture.p2switch.C08SwitchExpression" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture.*" />
+          <option name="PATTERN" value="ch04.lecture.p2switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture.ConditionalOperation" />
+    <configuration name="C09Yield" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.lecture.p2switch.C09Yield" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture.*" />
+          <option name="PATTERN" value="ch04.lecture.p2switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Excercise07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c03.sec02.Excercise07" />
+    <configuration name="IfNestedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.sec02.IfNestedExample" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c03.sec02.*" />
+          <option name="PATTERN" value="ch04.sec02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercisealone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c03.sec02.exercisealone" />
+    <configuration name="progrmmer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.progrmmer" />
       <module name="java20240219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c03.sec02.*" />
+          <option name="PATTERN" value="ch04.lecture.p2switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C03Integer" />
-        <item itemvalue="Application.exercisealone" />
-        <item itemvalue="Application.ConditionalOperation" />
-        <item itemvalue="Application.Excercise07" />
-        <item itemvalue="Application.C04ShortCircuit" />
+        <item itemvalue="Application.C09Yield" />
+        <item itemvalue="Application.IfNestedExample" />
+        <item itemvalue="Application.C08SwitchExpression" />
+        <item itemvalue="Application.progrmmer" />
+        <item itemvalue="Application.C05Switch" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708591929442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="변수 타입 바꾸기">
+      <option name="closed" value="true" />
+      <created>1708592072326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708592072326</updated>
+    </task>
+    <task id="LOCAL-00004" summary="변수 타입 바꾸기">
+      <option name="closed" value="true" />
+      <created>1708592080854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708592080854</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
