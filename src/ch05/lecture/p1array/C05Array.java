@@ -13,7 +13,7 @@ public class C05Array {
         arr[2] = 400;
         System.out.println(arr[2]);
 
-        // 존재하는 인덱스 사용 불가능
+        // 존재하지 않는 인덱스 사용 불가능
         //System.out.println(arr[3]); // 예외 발생
 
 
