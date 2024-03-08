@@ -1,0 +1,27 @@
+package ch07.lecture.p5super;
+
+public class C01Super {
+    public static void main(String[] args) {
+        C01Child child = new C01Child();
+        child.method1();
+    }
+}
+
+class C01Parent {
+    public int field1;
+
+    public void method1() {
+        System.out.println("부모");
+    }
+}
+
+class C01Child extends C01Parent {
+    @Override
+    public void method1() {
+        // super: 상위 타입(필드,메소드)의 멤버를 접근하기 위한 키워드
+        System.out.println(super.field1);
+        System.out.println("자식");
+        super.method1();
+    }
+
+}
