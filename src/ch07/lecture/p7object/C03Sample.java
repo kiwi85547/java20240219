@@ -58,4 +58,14 @@ class Rectangle extends Shape {
         System.out.println(length1 * length2);
     }
 
+    public String toString() {
+        return STR."가로\{length1}, 세로\{length2}인 사각형의 넓이는 \{getArea()}입니다.";
+
+    }
+
+    private double getArea() {
+        double area = length1 * length2;
+        return area;
+    }
+
 }

@@ -2,18 +2,17 @@ package ch06.sec14;
 
 public class CarExample {
     public static void main(String[] args) {
-        Car myCar = new Car();
+        Car car = new Car();
+        car.setSpeed(-50);
+        System.out.println("현재 속도 = " + car.getSpeed());
 
-        myCar.setSpeed(-20);
-        System.out.println(myCar.getSpeed());
+        car.setSpeed(100);
+        System.out.println("현재 속도 = " + car.getSpeed());
 
-        myCar.setSpeed(60);
-        System.out.println(myCar.getSpeed());
-
-        if (myCar.isStop()) {
-            myCar.setStop(true);
+        if (!car.isStop()) {
+            car.setStop(true);
         }
-        System.out.println(myCar.getSpeed());
+        System.out.println("stop? " + car.getSpeed());
     }
 }
 
@@ -25,10 +24,9 @@ class Car {
         return speed;
     }
 
-    public void setSpeed(int Speed) {
+    public void setSpeed(int speed) {
         if (speed < 0) {
             this.speed = 0;
-            return;
         } else {
             this.speed = speed;
         }
