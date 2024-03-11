@@ -19,6 +19,7 @@ public class C04InstanceOf {
         System.out.println("b2 = " + b2);
         System.out.println("b3 = " + b3);
 
+        System.out.println(animal instanceof C04Cat);
         if (animal instanceof C04Cat) {
             C04Cat cat = (C04Cat) animal;
             cat.meow();
