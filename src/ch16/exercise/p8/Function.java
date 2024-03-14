@@ -47,6 +47,7 @@ class Example {
         return sum / students.length;
     }
 
+
     public static void main(String[] args) {
         double englishAvg = avg(Student::getEnglishScore);
         System.out.println("englishAvg = " + englishAvg);
