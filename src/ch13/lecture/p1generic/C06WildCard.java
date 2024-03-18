@@ -1,8 +1,6 @@
 package ch13.lecture.p1generic;
 
-import ch08.sec10.exam01.C;
-
-public class CWildCard {
+public class C06WildCard {
     public static void main(String[] args) {
         Integer v1 = 100;
         Number v2 = v1;

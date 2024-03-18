@@ -1,7 +1,7 @@
 package ch13.lecture.p1generic;
 
 // 3월15일 오후 4시20분? 설명
-// 무슨말인지 하나도 모르겠음....상위? 하위?
+// 어려운것에 비해서 중요한것은 아님
 public class C07WildCard {
     public static void main(String[] args) {
         C07Box<Number> box1 = new C07Box<>();
