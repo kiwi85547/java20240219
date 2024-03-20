@@ -17,6 +17,7 @@ public class C02List {
         list1.add("react");
         list1.add("spring");
 
+
         // element 읽기(얻기 get)
         String s1 = list1.get(2);
         System.out.println("s1 = " + s1);

@@ -10,7 +10,10 @@ public class C03NestedList {
         list1.add("java");
         list1.add("spring");
 
-        // 원수가 List
+        System.out.println(list1.removeFirst()); //java
+        System.out.println(list1); //[spring]
+
+        // 원소가 List
         List<List<String>> list2 = new ArrayList<>();
         list2.add(new ArrayList<>());
         list2.add(new ArrayList<>());
