@@ -7,6 +7,7 @@ class Solution {
         TreeSet<Integer> treeSet = new TreeSet<>();
         for (int item : nums) {
             treeSet.add(item);
+
             if (treeSet.size() > 3) {
                 treeSet.remove(treeSet.first());
             }
