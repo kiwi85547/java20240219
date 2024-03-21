@@ -12,26 +12,25 @@ public class leet1748 {
 
 class Solution {
     public int sumOfUnique(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
-        int sum = 0;
-        int number = 0;
-
-        for (int item : nums) {
-            map.put(item, number);
+        Map<Integer, Integer> map = new HashMap();
+        for (int num : nums) {
+            Integer value = map.get(num);
+            if (value == null) {
+                map.put(num, 1);
+            } else {
+                map.put(num, value + 1);
+            }
         }
 
-        return sum;
-    }
-}
-
-class Solution2 {
-    public int sumOfUnique(int[] nums) {
-        int[] arr = new int[]{};
-        for (int item : nums) {
-//            arr=item;
+        int result = 0;
+        var entries = map.entrySet();
+        for (Map.Entry<Integer, Integer> entry : entries) {
+            if (entry.getValue() == 1) {
+                result += entry.getKey();
+            }
         }
 
 
-        return 0;
+        return result;
     }
 }

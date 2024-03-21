@@ -17,15 +17,35 @@ public class MapExample {
         for (String key : keys) {
             totalScore += map.get(key);
 
-            if (map.get(key) > maxScore)
+            if (map.get(key) > maxScore) {
                 maxScore = map.get(key);
-        }
-
-        for (String key : map.keySet()) {
-            if (map.get(key).equals(maxScore)) {
+                // 여기서 name을 정의할 순 없을까?
                 name = key;
+
             }
         }
+
+//        for (String key : map.keySet()) {
+//            if (map.get(key).equals(maxScore)) {
+//                name = key;
+//            }
+//        }
+
+        // 강사님 코드
+        String name2 = null;
+        int maxScore2 = 0;
+        int totalScore2 = 0;
+        double sum = 0;
+        Set<Map.Entry<String, Integer>> entrySet = map.entrySet();
+        for (Map.Entry<String, Integer> entry : entrySet) {
+            sum += entry.getValue();
+            if (maxScore2 < entry.getValue()) {
+                maxScore2 = entry.getValue();
+                name2 = entry.getKey();
+            }
+        }
+        double avg = sum / map.size();
+        System.out.println("avg = " + avg);
 
 
         System.out.println("평균 점수: " + totalScore / map.size());
