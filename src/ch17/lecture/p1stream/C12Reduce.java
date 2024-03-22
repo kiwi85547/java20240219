@@ -15,5 +15,17 @@ public class C12Reduce {
                 .reduce((a, b) -> a * b);
         System.out.println("reduce2 = " + reduce2.orElse(0));
         // orElse를 쓰지 않으면 객체의 주소가 출력됨.
+
+        Integer reduce3 = list2.stream()
+                .reduce(100, (a, b) -> a + b);
+        System.out.println("reduce3 = " + reduce3);
+
+        List<String> list3 = List.of();
+
+        Optional<String> reduce4 = list3.stream().reduce((a, b) -> a + b);
+        System.out.println("reduce4 = " + reduce4);
+//        if (reduce4.isPresent()) {
+//            System.out.println("reduce4 = " + reduce4);
+//        }
     }
 }
