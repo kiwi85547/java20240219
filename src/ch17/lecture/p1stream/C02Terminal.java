@@ -25,6 +25,11 @@ public class C02Terminal {
 
         // 3월21일 오후 2시30분 설명
         stream.forEach(e -> System.out.println(e));
+        System.out.println("---------------");
+        list.stream()
+                .sorted()
+                .forEachOrdered(System.out::println);
+        System.out.println("---------------");
 
         // 이렇게 간결히!
         list.stream()

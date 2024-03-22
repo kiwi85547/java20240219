@@ -1,12 +1,17 @@
 package ch15.Leetcode.leet1748;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class leet1748 {
     public static void main(String[] args) {
         Solution solution = new Solution();
         int num = solution.sumOfUnique(new int[]{1, 2, 3, 2});
         System.out.println(num);
+
+        StreamSolution streamSolution = new StreamSolution();
+        int num2 = streamSolution.sumOfUnique(new int[]{1, 2, 3, 2});
+        System.out.println(num2);
     }
 }
 
@@ -29,8 +34,19 @@ class Solution {
                 result += entry.getKey();
             }
         }
-
-
         return result;
+    }
+}
+
+class StreamSolution {
+    public int sumOfUnique(int[] nums) {
+        return Arrays.stream(nums)
+                .boxed()
+                .collect(Collectors.groupingBy(n -> n, Collectors.counting()))
+                .entrySet()
+                .stream()
+                .filter(e -> e.getValue() == 1)
+                .mapToInt(e -> e.getKey())
+                .sum();
     }
 }
