@@ -10,7 +10,7 @@ public class C09OutputStream {
         String fileName = "temp/output9.data";
         try (OutputStream os = new FileOutputStream(fileName)) {
 
-            os.write(23434); // 1 byte 쓰기
+            os.write(257); // 1 byte 쓰기
 
             byte[] data = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110};
 

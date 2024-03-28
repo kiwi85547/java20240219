@@ -9,8 +9,8 @@ public class WriteExample {
         try {
             OutputStream os = new FileOutputStream("temp/test1.db");
 
-            byte a = 10;
-            byte b = 20;
+            byte a = 65;
+            byte b = 49;
             byte c = 30;
 
             os.write(a);

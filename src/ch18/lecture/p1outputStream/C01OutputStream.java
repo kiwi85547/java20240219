@@ -19,6 +19,7 @@ public class C01OutputStream {
         OutputStream os = new FileOutputStream(filename);
         os.write(99);
         os.write(100);
-        os.write(1000000000);
+        os.write(55123459);
+        os.write(65);
     }
 }

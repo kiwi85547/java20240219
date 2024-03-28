@@ -13,6 +13,7 @@ public class C08OutputStream {
             try (os) {
                 os.write(5511); // 1byte 쓰기
                 os.write(5511); // 1byte 쓰기
+                os.write(1000001);
 
                 // byte 배열
                 byte[] data = new byte[10];
