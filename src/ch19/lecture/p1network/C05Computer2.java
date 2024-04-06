@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class C05Computer2 {
     public static void main(String[] args) throws IOException {
         // 서버에 연결해서 Socket 생성
-        Socket socket = new Socket("172.30.1.73", 9000);
+        Socket socket = new Socket("192.168.200.129", 9000);
 
         try (socket) {
             // 키보드 입력용 Scanner 만들고
